@@ -1,4 +1,4 @@
-# Contact Management System
+# Contact Management System 💻
 
 ## Its a project done for college. Feel free to copy the code!
 
